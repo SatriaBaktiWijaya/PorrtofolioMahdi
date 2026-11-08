@@ -1,0 +1,750 @@
+{
+  "profile": [
+    {
+      "name": "mahdi-portrait.jpg",
+      "rel_path": "/profile/mahdi-portrait.jpg",
+      "width": 758,
+      "height": 758,
+      "size_kb": 486.2,
+      "type": "image",
+      "caption": "Mahdi Wirawan - Product Designer & Automotive Enthusiast"
+    }
+  ],
+  "mazda-kensei": [
+    {
+      "name": "kensei-front-view.png",
+      "rel_path": "/projects/mazda-kensei/kensei-front-view.png",
+      "width": 1280,
+      "height": 960,
+      "size_kb": 422.4,
+      "type": "standalone_copy",
+      "caption": "Front view CAD render"
+    },
+    {
+      "name": "kensei-top-view.png",
+      "rel_path": "/projects/mazda-kensei/kensei-top-view.png",
+      "width": 1280,
+      "height": 960,
+      "size_kb": 253.1,
+      "type": "standalone_copy",
+      "caption": "Top view CAD render"
+    },
+    {
+      "name": "kensei-detail-view.png",
+      "rel_path": "/projects/mazda-kensei/kensei-detail-view.png",
+      "width": 1280,
+      "height": 960,
+      "size_kb": 519.3,
+      "type": "standalone_copy",
+      "caption": "Detail view angle render"
+    },
+    {
+      "name": "kensei-exploded-view.png",
+      "rel_path": "/projects/mazda-kensei/kensei-exploded-view.png",
+      "width": 1280,
+      "height": 960,
+      "size_kb": 201.6,
+      "type": "standalone_copy",
+      "caption": "Exploded view render"
+    },
+    {
+      "name": "kensei-hero-wide.png",
+      "rel_path": "/projects/mazda-kensei/kensei-hero-wide.png",
+      "width": 3510,
+      "height": 2483,
+      "size_kb": 43.5,
+      "type": "image",
+      "caption": "Project Kensei Hero Visual (3510x2483)"
+    },
+    {
+      "name": "kensei-sketch-final-board.png",
+      "rel_path": "/projects/mazda-kensei/kensei-sketch-final-board.png",
+      "width": 2270,
+      "height": 1931,
+      "size_kb": 12.6,
+      "type": "image",
+      "caption": "Final Ideation Sketches Board (2270x1931)"
+    },
+    {
+      "name": "kensei-sketch-concept-a.png",
+      "rel_path": "/projects/mazda-kensei/kensei-sketch-concept-a.png",
+      "width": 1217,
+      "height": 1806,
+      "size_kb": 59.0,
+      "type": "image",
+      "caption": "Concept A Dynamic Flow Sketch (1217x1806)"
+    },
+    {
+      "name": "kensei-sketch-concept-b.png",
+      "rel_path": "/projects/mazda-kensei/kensei-sketch-concept-b.png",
+      "width": 1310,
+      "height": 1497,
+      "size_kb": 5.7,
+      "type": "image",
+      "caption": "Concept B Blade Profile Sketch (1310x1497)"
+    },
+    {
+      "name": "kensei-sketch-elevation.png",
+      "rel_path": "/projects/mazda-kensei/kensei-sketch-elevation.png",
+      "width": 846,
+      "height": 1628,
+      "size_kb": 656.8,
+      "type": "image",
+      "caption": "Elevation Profile Line Sketch (846x1628)"
+    },
+    {
+      "name": "kensei-cad-rhino-hero.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-cad-rhino-hero.jpg",
+      "width": 1188,
+      "height": 1096,
+      "size_kb": 161.0,
+      "type": "image",
+      "caption": "Rhinoceros 8 3D Surface Model (1188x1096)"
+    },
+    {
+      "name": "kensei-cad-top-angle.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-cad-top-angle.jpg",
+      "width": 972,
+      "height": 1039,
+      "size_kb": 451.2,
+      "type": "image",
+      "caption": "CAD Surfacing Perspective Top (972x1039)"
+    },
+    {
+      "name": "kensei-cad-side-profile.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-cad-side-profile.jpg",
+      "width": 709,
+      "height": 1371,
+      "size_kb": 252.6,
+      "type": "image",
+      "caption": "CAD Curvature Continuous Edge (709x1371)"
+    },
+    {
+      "name": "kensei-render-studio.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-render-studio.jpg",
+      "width": 1015,
+      "height": 1065,
+      "size_kb": 113.3,
+      "type": "image",
+      "caption": "Studio Lighting Render (1015x1065)"
+    },
+    {
+      "name": "kensei-render-front-angle.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-render-front-angle.jpg",
+      "width": 1878,
+      "height": 1411,
+      "size_kb": 266.0,
+      "type": "image",
+      "caption": "Front Angle Studio Render (1878x1411)"
+    },
+    {
+      "name": "kensei-render-vertical-poster.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-render-vertical-poster.jpg",
+      "width": 1631,
+      "height": 2481,
+      "size_kb": 323.7,
+      "type": "image",
+      "caption": "Vertical Hero Showcase Render (1631x2481)"
+    },
+    {
+      "name": "kensei-proto-3dprint.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-proto-3dprint.jpg",
+      "width": 815,
+      "height": 1036,
+      "size_kb": 342.4,
+      "type": "image",
+      "caption": "Rapid Prototyping - 3D Print Model (815x1036)"
+    },
+    {
+      "name": "kensei-proto-putty-sanding.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-proto-putty-sanding.jpg",
+      "width": 1207,
+      "height": 810,
+      "size_kb": 583.9,
+      "type": "image",
+      "caption": "Surface Prep - Putty & Dempul Filler (1207x810)"
+    },
+    {
+      "name": "kensei-proto-silver-undercoat.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-proto-silver-undercoat.jpg",
+      "width": 717,
+      "height": 919,
+      "size_kb": 399.8,
+      "type": "image",
+      "caption": "Silver Metallic Base Coat (717x919)"
+    },
+    {
+      "name": "kensei-proto-maroon-coat.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-proto-maroon-coat.jpg",
+      "width": 689,
+      "height": 811,
+      "size_kb": 301.4,
+      "type": "image",
+      "caption": "Soul Red Translucent Tint Coat (689x811)"
+    },
+    {
+      "name": "kensei-final-model-hero.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-final-model-hero.jpg",
+      "width": 1612,
+      "height": 2247,
+      "size_kb": 1256.1,
+      "type": "image",
+      "caption": "Final Physical Prototype Model (1612x2247)"
+    },
+    {
+      "name": "kensei-final-model-perspective.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-final-model-perspective.jpg",
+      "width": 1046,
+      "height": 1525,
+      "size_kb": 566.0,
+      "type": "image",
+      "caption": "Final Physical Prototype Angle (1046x1525)"
+    },
+    {
+      "name": "kensei-final-model-cap-detail.jpg",
+      "rel_path": "/projects/mazda-kensei/kensei-final-model-cap-detail.jpg",
+      "width": 913,
+      "height": 1187,
+      "size_kb": 330.5,
+      "type": "image",
+      "caption": "Cap & Shoulder Precision Detail (913x1187)"
+    },
+    {
+      "name": "kensei-slide-04-concept.png",
+      "rel_path": "/projects/mazda-kensei/kensei-slide-04-concept.png",
+      "width": 2340,
+      "height": 1654,
+      "size_kb": 724.8,
+      "type": "render_page",
+      "caption": "Full Slide 04: Concept Overview"
+    },
+    {
+      "name": "kensei-slide-05-brand-matrix.png",
+      "rel_path": "/projects/mazda-kensei/kensei-slide-05-brand-matrix.png",
+      "width": 2339,
+      "height": 1654,
+      "size_kb": 183.1,
+      "type": "render_page",
+      "caption": "Full Slide 05: Brand Identity Matrix"
+    },
+    {
+      "name": "kensei-slide-08-brainstorm.png",
+      "rel_path": "/projects/mazda-kensei/kensei-slide-08-brainstorm.png",
+      "width": 2339,
+      "height": 1654,
+      "size_kb": 212.0,
+      "type": "render_page",
+      "caption": "Full Slide 08: Brainstorming & CMF"
+    }
+  ],
+  "twist-n-pour": [
+    {
+      "name": "twist-hero-main.png",
+      "rel_path": "/projects/twist-n-pour/twist-hero-main.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 457.8,
+      "type": "standalone_copy",
+      "caption": "Hero Studio Render (1415x948)"
+    },
+    {
+      "name": "twist-exploded-perspective.png",
+      "rel_path": "/projects/twist-n-pour/twist-exploded-perspective.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 318.8,
+      "type": "standalone_copy",
+      "caption": "Exploded Perspective View (1415x948)"
+    },
+    {
+      "name": "twist-mode-open.png",
+      "rel_path": "/projects/twist-n-pour/twist-mode-open.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 220.3,
+      "type": "standalone_copy",
+      "caption": "Operational Mode - Open 180 (1415x948)"
+    },
+    {
+      "name": "twist-mode-open-alt.png",
+      "rel_path": "/projects/twist-n-pour/twist-mode-open-alt.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 203.2,
+      "type": "standalone_copy",
+      "caption": "Operational Mode - Dispensing (1415x948)"
+    },
+    {
+      "name": "twist-mode-closed.png",
+      "rel_path": "/projects/twist-n-pour/twist-mode-closed.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 195.9,
+      "type": "standalone_copy",
+      "caption": "Operational Mode - Folded Closed (1415x948)"
+    },
+    {
+      "name": "twist-operation-filling.png",
+      "rel_path": "/projects/twist-n-pour/twist-operation-filling.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 390.8,
+      "type": "standalone_copy",
+      "caption": "Operation - Water Reservoir Fill (1415x948)"
+    },
+    {
+      "name": "twist-part-can-cap.png",
+      "rel_path": "/projects/twist-n-pour/twist-part-can-cap.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 348.5,
+      "type": "standalone_copy",
+      "caption": "Detail - Can Lid & Top Orifice (1415x948)"
+    },
+    {
+      "name": "twist-part-nozzle-detail.png",
+      "rel_path": "/projects/twist-n-pour/twist-part-nozzle-detail.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 551.9,
+      "type": "standalone_copy",
+      "caption": "Detail - Rotary Flow Nozzle (1415x948)"
+    },
+    {
+      "name": "twist-ortho-top.png",
+      "rel_path": "/projects/twist-n-pour/twist-ortho-top.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 256.7,
+      "type": "standalone_copy",
+      "caption": "Orthogonal Top View (1415x948)"
+    },
+    {
+      "name": "twist-ortho-back.png",
+      "rel_path": "/projects/twist-n-pour/twist-ortho-back.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 207.5,
+      "type": "standalone_copy",
+      "caption": "Orthogonal Back View (1415x948)"
+    },
+    {
+      "name": "twist-ortho-side.png",
+      "rel_path": "/projects/twist-n-pour/twist-ortho-side.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 385.8,
+      "type": "standalone_copy",
+      "caption": "Orthogonal Side View (1415x948)"
+    },
+    {
+      "name": "twist-studio-angle.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-studio-angle.jpg",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 83.2,
+      "type": "standalone_copy",
+      "caption": "Studio Isometric Render (1415x948)"
+    },
+    {
+      "name": "twist-banner-hero.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-banner-hero.jpg",
+      "width": 2086,
+      "height": 765,
+      "size_kb": 287.6,
+      "type": "image",
+      "caption": "Earthen-Minimalism Banner (2086x765)"
+    },
+    {
+      "name": "twist-banner-secondary.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-banner-secondary.jpg",
+      "width": 1415,
+      "height": 672,
+      "size_kb": 130.8,
+      "type": "image",
+      "caption": "Sculptural Ring Render (1415x672)"
+    },
+    {
+      "name": "twist-board-problem-statement.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-board-problem-statement.jpg",
+      "width": 3508,
+      "height": 2481,
+      "size_kb": 966.3,
+      "type": "image",
+      "caption": "Urban Gardening Problem Board (3508x2481)"
+    },
+    {
+      "name": "twist-ergonomics-study-banner.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-ergonomics-study-banner.jpg",
+      "width": 1781,
+      "height": 427,
+      "size_kb": 155.4,
+      "type": "image",
+      "caption": "Ergonomics & Antropometri Study (1781x427)"
+    },
+    {
+      "name": "twist-persona-adrian.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-persona-adrian.jpg",
+      "width": 909,
+      "height": 1081,
+      "size_kb": 198.3,
+      "type": "image",
+      "caption": "User Persona - Adrian Pratama (909x1081)"
+    },
+    {
+      "name": "twist-board-affinity-diagram.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-board-affinity-diagram.jpg",
+      "width": 3508,
+      "height": 2481,
+      "size_kb": 992.7,
+      "type": "image",
+      "caption": "Affinity Diagram Comprehensive Board (3508x2481)"
+    },
+    {
+      "name": "twist-sketch-concepts.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-sketch-concepts.jpg",
+      "width": 1461,
+      "height": 446,
+      "size_kb": 132.3,
+      "type": "image",
+      "caption": "Alternative Concepts A & B (1461x446)"
+    },
+    {
+      "name": "twist-sketch-development.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-sketch-development.jpg",
+      "width": 1377,
+      "height": 345,
+      "size_kb": 101.3,
+      "type": "image",
+      "caption": "Development Sketches A-E (1377x345)"
+    },
+    {
+      "name": "twist-sketch-evaluation-table.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-sketch-evaluation-table.jpg",
+      "width": 1843,
+      "height": 359,
+      "size_kb": 137.9,
+      "type": "image",
+      "caption": "Concept Scoring Matrix (1843x359)"
+    },
+    {
+      "name": "twist-orthographic-cad-sheet.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-orthographic-cad-sheet.jpg",
+      "width": 1636,
+      "height": 424,
+      "size_kb": 137.5,
+      "type": "image",
+      "caption": "CAD Orthographic Dimensions (1636x424)"
+    },
+    {
+      "name": "twist-exploded-schematic.png",
+      "rel_path": "/projects/twist-n-pour/twist-exploded-schematic.png",
+      "width": 1415,
+      "height": 948,
+      "size_kb": 151.2,
+      "type": "image",
+      "caption": "Exploded View CAD Parts (1415x948)"
+    },
+    {
+      "name": "twist-operational-modes.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-operational-modes.jpg",
+      "width": 896,
+      "height": 486,
+      "size_kb": 88.2,
+      "type": "image",
+      "caption": "Operational Modes: Normal vs Shower (896x486)"
+    },
+    {
+      "name": "twist-in-use-filling.png",
+      "rel_path": "/projects/twist-n-pour/twist-in-use-filling.png",
+      "width": 1152,
+      "height": 928,
+      "size_kb": 1797.1,
+      "type": "image",
+      "caption": "Operation: Filling with Water (1152x928)"
+    },
+    {
+      "name": "twist-in-use-watering.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-in-use-watering.jpg",
+      "width": 901,
+      "height": 948,
+      "size_kb": 120.3,
+      "type": "image",
+      "caption": "Operation: Precision Watering (901x948)"
+    },
+    {
+      "name": "twist-in-use-decor.png",
+      "rel_path": "/projects/twist-n-pour/twist-in-use-decor.png",
+      "width": 1060,
+      "height": 848,
+      "size_kb": 1550.0,
+      "type": "image",
+      "caption": "Decorative Display in Modern Interior (1060x848)"
+    },
+    {
+      "name": "twist-detail-nozzle-cap.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-detail-nozzle-cap.jpg",
+      "width": 840,
+      "height": 704,
+      "size_kb": 133.1,
+      "type": "image",
+      "caption": "Detail: Nozzle Cap Flow Regulator (840x704)"
+    },
+    {
+      "name": "twist-detail-can-lid.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-detail-can-lid.jpg",
+      "width": 777,
+      "height": 778,
+      "size_kb": 91.2,
+      "type": "image",
+      "caption": "Detail: Top Filling Can Lid (777x778)"
+    },
+    {
+      "name": "twist-asistensi-sheet.jpg",
+      "rel_path": "/projects/twist-n-pour/twist-asistensi-sheet.jpg",
+      "width": 2192,
+      "height": 1560,
+      "size_kb": 316.9,
+      "type": "image",
+      "caption": "Academic Mentorship Sheet (2192x1560)"
+    },
+    {
+      "name": "blueprint-sheet-1-gambar-tampak.png",
+      "rel_path": "/projects/twist-n-pour/blueprints/blueprint-sheet-1-gambar-tampak.png",
+      "width": 4963,
+      "height": 3509,
+      "size_kb": 549.8,
+      "type": "vector_blueprint_render_300dpi",
+      "caption": "Sheet 1: GAMBAR TAMPAK (Tampak Belakang, Samping, Atas, Perspektif - Skala 1:2)"
+    },
+    {
+      "name": "blueprint-sheet-2-gambar-potongan.png",
+      "rel_path": "/projects/twist-n-pour/blueprints/blueprint-sheet-2-gambar-potongan.png",
+      "width": 4963,
+      "height": 3509,
+      "size_kb": 529.0,
+      "type": "vector_blueprint_render_300dpi",
+      "caption": "Sheet 2: GAMBAR POTONGAN (Cross Sections A-A and B-B - Skala 1:1)"
+    },
+    {
+      "name": "blueprint-sheet-3-gambar-detail.png",
+      "rel_path": "/projects/twist-n-pour/blueprints/blueprint-sheet-3-gambar-detail.png",
+      "width": 4963,
+      "height": 3509,
+      "size_kb": 578.3,
+      "type": "vector_blueprint_render_300dpi",
+      "caption": "Sheet 3: GAMBAR DETAIL (Nozzle Cap, Can Lid, Engsel - Skala 1:2 & 1:1)"
+    },
+    {
+      "name": "blueprint-sheet-4-exploded-view.png",
+      "rel_path": "/projects/twist-n-pour/blueprints/blueprint-sheet-4-exploded-view.png",
+      "width": 4963,
+      "height": 3509,
+      "size_kb": 506.8,
+      "type": "vector_blueprint_render_300dpi",
+      "caption": "Sheet 4: GAMBAR EXPLODED VIEW (Parts 1-4 with Bill of Materials - Skala 1:1)"
+    }
+  ],
+  "esprit-otoped": [
+    {
+      "name": "otoped-hero-3d-render.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-hero-3d-render.jpg",
+      "width": 3058,
+      "height": 2160,
+      "size_kb": 1225.5,
+      "type": "image",
+      "caption": "Esprit Otoped Hero 3D Studio Render (3058x2160)"
+    },
+    {
+      "name": "otoped-final-sketch.png",
+      "rel_path": "/projects/esprit-otoped/otoped-final-sketch.png",
+      "width": 1235,
+      "height": 1700,
+      "size_kb": 70.3,
+      "type": "image",
+      "caption": "Final Concept Sketch (1235x1700)"
+    },
+    {
+      "name": "otoped-ideation-sketches.png",
+      "rel_path": "/projects/esprit-otoped/otoped-ideation-sketches.png",
+      "width": 1151,
+      "height": 575,
+      "size_kb": 2.0,
+      "type": "image",
+      "caption": "Ideation Sketch Sequence (1151x575)"
+    },
+    {
+      "name": "otoped-moodboard-esprit-s1.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-moodboard-esprit-s1.jpg",
+      "width": 1123,
+      "height": 1425,
+      "size_kb": 176.1,
+      "type": "image",
+      "caption": "1976 Lotus Esprit S1 Inspiration (1123x1425)"
+    },
+    {
+      "name": "otoped-concept-geometry.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-concept-geometry.jpg",
+      "width": 1072,
+      "height": 714,
+      "size_kb": 159.8,
+      "type": "image",
+      "caption": "Wedge Geometry Study (1072x714)"
+    },
+    {
+      "name": "otoped-form-study.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-form-study.jpg",
+      "width": 952,
+      "height": 608,
+      "size_kb": 107.2,
+      "type": "image",
+      "caption": "Retro-Futuristic Form Study (952x608)"
+    },
+    {
+      "name": "otoped-detail-wheel.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-detail-wheel.jpg",
+      "width": 631,
+      "height": 511,
+      "size_kb": 60.6,
+      "type": "image",
+      "caption": "Detail: Front Wheel & Fairing (631x511)"
+    },
+    {
+      "name": "otoped-detail-deck.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-detail-deck.jpg",
+      "width": 675,
+      "height": 500,
+      "size_kb": 75.1,
+      "type": "image",
+      "caption": "Detail: Minimalist Deck & Pivot (675x500)"
+    },
+    {
+      "name": "otoped-detail-handlebar.jpg",
+      "rel_path": "/projects/esprit-otoped/otoped-detail-handlebar.jpg",
+      "width": 668,
+      "height": 676,
+      "size_kb": 121.1,
+      "type": "image",
+      "caption": "Detail: Integrated Cockpit Handlebar (668x676)"
+    },
+    {
+      "name": "otoped-slide-11-intro.png",
+      "rel_path": "/projects/esprit-otoped/otoped-slide-11-intro.png",
+      "width": 2925,
+      "height": 2068,
+      "size_kb": 424.4,
+      "type": "render_page",
+      "caption": "Presentation Slide 11: Introduction"
+    },
+    {
+      "name": "otoped-slide-12-concept.png",
+      "rel_path": "/projects/esprit-otoped/otoped-slide-12-concept.png",
+      "width": 2924,
+      "height": 2068,
+      "size_kb": 1432.9,
+      "type": "render_page",
+      "caption": "Presentation Slide 12: The Concept & Moodboard"
+    },
+    {
+      "name": "otoped-slide-13-render.png",
+      "rel_path": "/projects/esprit-otoped/otoped-slide-13-render.png",
+      "width": 2924,
+      "height": 2068,
+      "size_kb": 3560.0,
+      "type": "render_page",
+      "caption": "Presentation Slide 13: 3D Render & Engineering Details"
+    }
+  ],
+  "automotive-wheels": [
+    {
+      "name": "mazda-concept-coupe-render.jpg",
+      "rel_path": "/projects/automotive-wheels/mazda-concept-coupe-render.jpg",
+      "width": 3291,
+      "height": 1173,
+      "size_kb": 757.2,
+      "type": "image",
+      "caption": "Mazda Concept Coupe - Photoshop Digital Painting (3291x1173)"
+    },
+    {
+      "name": "automotive-marker-sketches-hero.jpg",
+      "rel_path": "/projects/automotive-wheels/automotive-marker-sketches-hero.jpg",
+      "width": 3465,
+      "height": 1960,
+      "size_kb": 1985.7,
+      "type": "image",
+      "caption": "Automotive Ideation Marker Sketches (3465x1960)"
+    },
+    {
+      "name": "rhino-wheels-modelling-hero.jpg",
+      "rel_path": "/projects/automotive-wheels/rhino-wheels-modelling-hero.jpg",
+      "width": 1600,
+      "height": 1200,
+      "size_kb": 374.5,
+      "type": "image",
+      "caption": "Rhinoceros 8 Parametric Wheels CAD Modeling (1600x1200)"
+    },
+    {
+      "name": "castrol-livery-3q-perspective.jpg",
+      "rel_path": "/projects/automotive-wheels/castrol-livery-3q-perspective.jpg",
+      "width": 1709,
+      "height": 1709,
+      "size_kb": 1869.5,
+      "type": "image",
+      "caption": "Castrol Livery Contest 2024 - 3/4 Front Perspective (1709x1709)"
+    },
+    {
+      "name": "castrol-livery-side-profile.jpg",
+      "rel_path": "/projects/automotive-wheels/castrol-livery-side-profile.jpg",
+      "width": 1238,
+      "height": 1238,
+      "size_kb": 993.8,
+      "type": "image",
+      "caption": "Castrol Livery Contest 2024 - Side Profile (1238x1238)"
+    },
+    {
+      "name": "castrol-livery-top-view.jpg",
+      "rel_path": "/projects/automotive-wheels/castrol-livery-top-view.jpg",
+      "width": 1238,
+      "height": 1238,
+      "size_kb": 677.2,
+      "type": "image",
+      "caption": "Castrol Livery Contest 2024 - Top Plan View (1238x1238)"
+    },
+    {
+      "name": "automotive-slide-15-coupe.png",
+      "rel_path": "/projects/automotive-wheels/automotive-slide-15-coupe.png",
+      "width": 2924,
+      "height": 2068,
+      "size_kb": 2338.3,
+      "type": "render_page",
+      "caption": "Presentation Slide 15: Mazda Concept Coupe"
+    },
+    {
+      "name": "automotive-slide-16-sketches.png",
+      "rel_path": "/projects/automotive-wheels/automotive-slide-16-sketches.png",
+      "width": 2924,
+      "height": 2068,
+      "size_kb": 4349.3,
+      "type": "render_page",
+      "caption": "Presentation Slide 16: Traditional Marker Sketches"
+    },
+    {
+      "name": "automotive-slide-18-wheels.png",
+      "rel_path": "/projects/automotive-wheels/automotive-slide-18-wheels.png",
+      "width": 2924,
+      "height": 2068,
+      "size_kb": 1616.6,
+      "type": "render_page",
+      "caption": "Presentation Slide 18: Rhinoceros Wheels CAD"
+    },
+    {
+      "name": "automotive-slide-19-castrol.png",
+      "rel_path": "/projects/automotive-wheels/automotive-slide-19-castrol.png",
+      "width": 2924,
+      "height": 2068,
+      "size_kb": 5586.5,
+      "type": "render_page",
+      "caption": "Presentation Slide 19: Castrol Livery Contest"
+    }
+  ]
+}

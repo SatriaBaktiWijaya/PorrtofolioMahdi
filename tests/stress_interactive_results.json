@@ -1,0 +1,467 @@
+{
+  "passed": 91,
+  "failed": 0,
+  "warnings": 1,
+  "tests": [
+    {
+      "name": "HTML File Exists: Home (/)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\index.html"
+    },
+    {
+      "name": "File Size Adequate: Home (/)",
+      "status": "PASS",
+      "details": "Size: 103895 bytes (min: 50000)"
+    },
+    {
+      "name": "Valid HTML Structure: Home (/)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Home (/)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: Home (/)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: Home (/)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: Home (/)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: About (/about)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\about.html"
+    },
+    {
+      "name": "File Size Adequate: About (/about)",
+      "status": "PASS",
+      "details": "Size: 72687 bytes (min: 40000)"
+    },
+    {
+      "name": "Valid HTML Structure: About (/about)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: About (/about)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: About (/about)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: About (/about)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: About (/about)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\projects.html"
+    },
+    {
+      "name": "File Size Adequate: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": "Size: 56857 bytes (min: 30000)"
+    },
+    {
+      "name": "Valid HTML Structure: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: Projects Archive (/projects)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\projects\\mazda-kensei.html"
+    },
+    {
+      "name": "File Size Adequate: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": "Size: 113568 bytes (min: 70000)"
+    },
+    {
+      "name": "Valid HTML Structure: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: Mazda Kensei (/projects/mazda-kensei)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\projects\\twist-n-pour.html"
+    },
+    {
+      "name": "File Size Adequate: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": "Size: 137737 bytes (min: 70000)"
+    },
+    {
+      "name": "Valid HTML Structure: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: Twist n Pour (/projects/twist-n-pour)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\projects\\esprit-otoped.html"
+    },
+    {
+      "name": "File Size Adequate: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": "Size: 104830 bytes (min: 70000)"
+    },
+    {
+      "name": "Valid HTML Structure: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: Esprit Otoped (/projects/esprit-otoped)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\projects\\automotive-wheels.html"
+    },
+    {
+      "name": "File Size Adequate: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": "Size: 110181 bytes (min: 70000)"
+    },
+    {
+      "name": "Valid HTML Structure: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Studio Identity: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Dieter Rams Ethos: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Contains Academic Credentials: Automotive Wheels (/projects/automotive-wheels)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "HTML File Exists: Not Found (/_not-found)",
+      "status": "PASS",
+      "details": "E:\\Coding\\PortoIwan\\.next\\server\\app\\_not-found.html"
+    },
+    {
+      "name": "File Size Adequate: Not Found (/_not-found)",
+      "status": "PASS",
+      "details": "Size: 32840 bytes (min: 10000)"
+    },
+    {
+      "name": "Valid HTML Structure: Not Found (/_not-found)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Hydration Errors: Not Found (/_not-found)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "All Referenced Images Exist on Disk (93 checked, 0 missing)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "ExplodedViewer default parts count is 4",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Part #1 (Can Main Body) coordinates bounded [0..100%]",
+      "status": "PASS",
+      "details": "x:48%, y:56%"
+    },
+    {
+      "name": "Part #2 (Rotating Nozzle Spout) coordinates bounded [0..100%]",
+      "status": "PASS",
+      "details": "x:70%, y:38%"
+    },
+    {
+      "name": "Part #3 (Dual-Mode Nozzle Cap) coordinates bounded [0..100%]",
+      "status": "PASS",
+      "details": "x:82%, y:28%"
+    },
+    {
+      "name": "Part #4 (Fill Aperture Lid) coordinates bounded [0..100%]",
+      "status": "PASS",
+      "details": "x:38%, y:32%"
+    },
+    {
+      "name": "ExplodedViewer selects Part 1",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "ExplodedViewer selects Part 3",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "ExplodedViewer falls back gracefully to parts[0] when unknown ID passed",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "ExplodedViewer Empty Parts Edge Case",
+      "status": "WARN",
+      "details": "Passing parts=[] results in activePart=undefined which would cause runtime TypeError if rendered without defensive guard. Note: Production code provides DEFAULT_PARTS fallback."
+    },
+    {
+      "name": "CMF swatch soul-red has valid 6-digit hex: #8c0b14",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch soul-red GU bounded [0..100]: 95",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch soul-red has multi-layer coating specification: 4 layers",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch machine-grey has valid 6-digit hex: #373a40",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch machine-grey GU bounded [0..100]: 88",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch machine-grey has multi-layer coating specification: 4 layers",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch polymetal-matte has valid 6-digit hex: #5c6b73",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch polymetal-matte GU bounded [0..100]: 22",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch polymetal-matte has multi-layer coating specification: 4 layers",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch hyper-silver has valid 6-digit hex: #d1d5db",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch hyper-silver GU bounded [0..100]: 70",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF swatch hyper-silver has multi-layer coating specification: 3 layers",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF selects Soul Red (95 GU)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF selects Polymetal Matte (22 GU)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "CMF falls back gracefully to swatches[0]",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Initial zoom level is 1.0 (100%)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zoom In correctly clamped at max 2.5 (250%) after 20 clicks",
+      "status": "PASS",
+      "details": "Current: 2.5"
+    },
+    {
+      "name": "Zoom Out correctly floored at min 0.75 (75%) after 30 clicks",
+      "status": "PASS",
+      "details": "Current: 0.75"
+    },
+    {
+      "name": "Reset zoom restores 1.0 (100%) exactly",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "1x Zoom In increments from 1.0 to 1.25",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "1x Zoom Out decrements back to 1.0",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "SmoothScrollProvider queries (prefers-reduced-motion: reduce)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "SmoothScrollProvider safely aborts Lenis and GSAP ticker on reduced motion",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Smooth scrolling mechanism configured",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Missing Alt Attributes across 93 <img> elements (0 missing)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "All 93 <img> elements have non-empty alt text",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Accessible Button Labels Audit: 10 buttons checked, 0 unlabeled",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Empty href=\"\" Links in Static Output (0 found)",
+      "status": "PASS",
+      "details": ""
+    },
+    {
+      "name": "Zero Blind href=\"#\" Links in Static Output (0 found)",
+      "status": "PASS",
+      "details": ""
+    }
+  ]
+}
